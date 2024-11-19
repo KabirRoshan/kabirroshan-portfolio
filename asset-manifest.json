@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kabirroshan-portfolio/static/css/main.e2f503ad.css",
+    "main.js": "/kabirroshan-portfolio/static/js/main.55e51a39.js",
+    "static/js/453.9415623e.chunk.js": "/kabirroshan-portfolio/static/js/453.9415623e.chunk.js",
+    "static/media/mock02.png": "/kabirroshan-portfolio/static/media/mock02.6343c88348e63965c547.png",
+    "static/media/mock01.png": "/kabirroshan-portfolio/static/media/mock01.5e9258f9cdf06844ae92.png",
+    "static/media/bg-light.png": "/kabirroshan-portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/kabirroshan-portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/mock04.png": "/kabirroshan-portfolio/static/media/mock04.788c91afe72726923452.png",
+    "static/media/mock03.png": "/kabirroshan-portfolio/static/media/mock03.a8a0f102a3ed5f1a7ef4.png",
+    "static/media/profile.jpg": "/kabirroshan-portfolio/static/media/profile.f8fbf43d6a5c0e4efb86.jpg",
+    "index.html": "/kabirroshan-portfolio/index.html",
+    "main.e2f503ad.css.map": "/kabirroshan-portfolio/static/css/main.e2f503ad.css.map",
+    "main.55e51a39.js.map": "/kabirroshan-portfolio/static/js/main.55e51a39.js.map",
+    "453.9415623e.chunk.js.map": "/kabirroshan-portfolio/static/js/453.9415623e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2f503ad.css",
+    "static/js/main.55e51a39.js"
+  ]
+}
