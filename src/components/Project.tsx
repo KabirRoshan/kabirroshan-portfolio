@@ -13,7 +13,7 @@ function Project() {
             <div className="project">
                 <a href="https://alphamotorslondon.co.uk/" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://alphamotorslondon.co.uk/" target="_blank" rel="noreferrer"><h2>Website for local businesses</h2></a>
-                <p>Developed website for local businesses using TypeScript, Next.js, Shadcn/ui and Vercel for deployment. 
+                <p>Developed website for local businesses using JavaScript, Next.js, Shadcn/ui and Vercel for deployment. 
                     Implemented server-side rendering (SSR) and static site generation (SSG) using Next.js to
                 enhance website speed and SEO performance.</p>
             </div>
