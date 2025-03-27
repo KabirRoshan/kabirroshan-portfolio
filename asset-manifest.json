@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kabirroshan-portfolio/static/css/main.e2f503ad.css",
-    "main.js": "/kabirroshan-portfolio/static/js/main.44094030.js",
+    "main.js": "/kabirroshan-portfolio/static/js/main.9a102035.js",
     "static/js/453.9415623e.chunk.js": "/kabirroshan-portfolio/static/js/453.9415623e.chunk.js",
     "static/media/mock02.png": "/kabirroshan-portfolio/static/media/mock02.6343c88348e63965c547.png",
     "static/media/mock01.png": "/kabirroshan-portfolio/static/media/mock01.5e9258f9cdf06844ae92.png",
@@ -12,11 +12,11 @@
     "static/media/profile.jpg": "/kabirroshan-portfolio/static/media/profile.f8fbf43d6a5c0e4efb86.jpg",
     "index.html": "/kabirroshan-portfolio/index.html",
     "main.e2f503ad.css.map": "/kabirroshan-portfolio/static/css/main.e2f503ad.css.map",
-    "main.44094030.js.map": "/kabirroshan-portfolio/static/js/main.44094030.js.map",
+    "main.9a102035.js.map": "/kabirroshan-portfolio/static/js/main.9a102035.js.map",
     "453.9415623e.chunk.js.map": "/kabirroshan-portfolio/static/js/453.9415623e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e2f503ad.css",
-    "static/js/main.44094030.js"
+    "static/js/main.9a102035.js"
   ]
 }
