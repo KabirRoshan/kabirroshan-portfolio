@@ -10,6 +10,7 @@ const labelsFirst = [
     "React",
     "TypeScript",
     "JavaScript",
+    "Java",
     "Vue.js",
     "Next.js",
     "Node.js",
